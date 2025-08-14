@@ -1,1 +1,1 @@
-## Smart Premium Prediction Machine Leaarning Project
+## Smart Premium Prediction Machine Learning Project
